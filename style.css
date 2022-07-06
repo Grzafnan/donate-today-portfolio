@@ -124,6 +124,11 @@
   border-radius: 5px;
 }
 
+.donate-btn:hover{
+  color:#fff;
+  background-color: #5C0AE1;
+}
+
 .donation-cart{
   display: flex;
   justify-content: center;
@@ -191,6 +196,11 @@
   text-align: justify;
   margin-top: 2%;
   margin-bottom: 3%;
+}
+
+.contribute-btn:hover{
+  color:#fff;
+  background-color: #5C0AE1;
 }
 
 .contact{
