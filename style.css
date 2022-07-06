@@ -159,6 +159,7 @@
 }
 
 .contribute{
+  width: ;
   margin-bottom: 60px;
 }
 
@@ -270,12 +271,12 @@ footer{
   width: 100%;
   text-align: center;
   background-color: #0B0D17;
-  padding: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 footer h2 {
   color: #e73333;
 }
-
 small{
   color: #fff;
 }
